@@ -1,0 +1,86 @@
+{
+  "total": 9,
+  "viewers": [
+    {
+      "username": "kingmoo92",
+      "karma": 100.0,
+      "coins": 250,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "609116056"
+      }
+    },
+    {
+      "username": "geojoe_uk",
+      "karma": 100.0,
+      "coins": 295,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "654635107"
+      }
+    },
+    {
+      "username": "lenzarng",
+      "karma": 100.01,
+      "coins": 904,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "97321737"
+      }
+    },
+    {
+      "username": "rotemn_",
+      "karma": 200.0,
+      "coins": 1006,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "89444518"
+      }
+    },
+    {
+      "username": "ellisxrf_",
+      "karma": 100.0,
+      "coins": 1032,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "502235414"
+      }
+    },
+    {
+      "username": "streamelements",
+      "karma": 100.0,
+      "coins": 295,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "100135110"
+      }
+    },
+    {
+      "username": "itsamemariorui",
+      "karma": 100.0,
+      "coins": 295,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "531602844"
+      }
+    },
+    {
+      "username": "captolamia",
+      "karma": 100.0,
+      "coins": 270,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "58513264"
+      }
+    },
+    {
+      "username": "roboprimegames",
+      "karma": 100.0,
+      "coins": 270,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "544425285"
+      }
+    }
+  ]
+}
