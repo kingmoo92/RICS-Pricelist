@@ -186,7 +186,7 @@
     "SupportsCost": false,
     "PermissionLevel": "everyone",
     "RequiresConfirmation": false,
-    "CommandAlias": "",
+    "CommandAlias": "balls",
     "useCommandCooldown": true,
     "MaxUsesPerCooldownPeriod": 0,
     "Label": "check balance",

@@ -1511,7 +1511,7 @@
     "DefName": "VFEP_Shellcasket",
     "Name": "Shellcasket",
     "Degree": 0,
-    "Description": "{PAWN_nameDef} was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that {PAWN_nameDef} is in constant, agonizing pain and can barely assemble his thoughts. Only installing {PAWN_nameDef} back in a warcasket can cure the symptoms.",
+    "Description": "{PAWN_nameDef} was entombed in a warcasket, and then brutally pulled out of one. The neural and nerve damage from being unplugged is so severe that {PAWN_nameDef} is in constant, agonizing pain and can barely assemble {PAWN_possessive} thoughts. Only installing {PAWN_nameDef} back in a warcasket can cure the symptoms.",
     "Stats": [],
     "Conflicts": [],
     "CanAdd": true,
@@ -3181,7 +3181,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "MIM - WH40k Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "EMWH_IronStomach_0": {
@@ -3200,7 +3200,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "MIM - WH40k Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "EMWH_QuickDraw_0": {
@@ -3221,7 +3221,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "MIM - WH40k Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "EMWH_RapidReload_0": {
@@ -3242,7 +3242,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "MIM - WH40k Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "EMWH_Maccabian_0": {
@@ -3264,7 +3264,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "MIM - WH40k Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "EMAE_PathofScholar_0": {
@@ -3285,7 +3285,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "MIM Warhammer 40k Aeldari Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "EMAE_PathofSavant_0": {
@@ -3306,7 +3306,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "MIM Warhammer 40k Aeldari Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "EMAE_PathofChronicler_0": {
@@ -3328,7 +3328,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "MIM Warhammer 40k Aeldari Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "AIRobot_BaseTrait_1": {
@@ -4293,6 +4293,48 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Rimframe: Vatgrown Hate",
+    "modactive": true,
+    "Version": 1
+  },
+  "AG_Beauty_2": {
+    "DefName": "AG_Beauty",
+    "Name": "Angelic beauty",
+    "Degree": 2,
+    "Description": "[PAWN_name] possesses an unnatural, almost pristine beauty that makes [PAWN_objective] stand out among others of [PAWN_possessive] kind.",
+    "Stats": [
+      "+3 Beauty"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 464,
+    "RemovePrice": 774,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Alpha Genes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AG_Beauty_-2": {
+    "DefName": "AG_Beauty",
+    "Name": "Repulsive",
+    "Degree": -2,
+    "Description": "[PAWN_name] is so unfathomably ugly and grotesque that merely looking at [PAWN_objective] is enough to make other people nauseous.",
+    "Stats": [
+      "-3 Beauty"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 139,
+    "RemovePrice": 1162,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Alpha Genes",
     "modactive": true,
     "Version": 1
   }

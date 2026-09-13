@@ -478,5 +478,77 @@
     "ModSource": "Vanilla Landmarks Expanded",
     "modactive": true,
     "Version": 1
+  },
+  "VomitRain_BileHaze": {
+    "DefName": "VomitRain_BileHaze",
+    "Label": "bile haze",
+    "Description": "A still, sour-smelling haze hangs over the swamp. Nothing is falling, but the light is green and thin wisps of bile fog drift between the mangroves.",
+    "BaseCost": 600,
+    "KarmaType": "Doom",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vomit Rain",
+    "modactive": false,
+    "Version": 1
+  },
+  "VomitRain_Weather": {
+    "DefName": "VomitRain_Weather",
+    "Label": "vomit rain",
+    "Description": "The sky is throwing up. A warm, chunky, bile-green rain is falling and pooling on every open surface. It slightly slows movement, reduces ranged accuracy and puts out fires, exactly like normal rain, except that nobody wants to be outside in it.",
+    "BaseCost": 600,
+    "KarmaType": "Doom",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vomit Rain",
+    "modactive": false,
+    "Version": 1
+  },
+  "VomitRain_Weather_Chunky": {
+    "DefName": "VomitRain_Weather_Chunky",
+    "Label": "chunky rain",
+    "Description": "A dense, heavy, chunk-laden rain, falling harder and pooling faster than ordinary vomit rain. It slightly slows movement, reduces ranged accuracy and puts out fires, exactly like normal rain, except that nobody wants to be outside in it.",
+    "BaseCost": 600,
+    "KarmaType": "Doom",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vomit Rain",
+    "modactive": false,
+    "Version": 1
+  },
+  "VomitRain_Weather_Drizzle": {
+    "DefName": "VomitRain_Weather_Drizzle",
+    "Label": "bile drizzle",
+    "Description": "A thin, warm, faintly green drizzle. It barely slows anyone down and barely reduces accuracy, but it goes on and on.",
+    "BaseCost": 600,
+    "KarmaType": "Doom",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vomit Rain",
+    "modactive": false,
+    "Version": 1
+  },
+  "VomitRain_Weather_Hail": {
+    "DefName": "VomitRain_Weather_Hail",
+    "Label": "vomit hail",
+    "Description": "Chunks of dried bile crust hailing out of a sick, sallow sky. It hits harder than ordinary vomit rain and reduces accuracy more, but it burns itself out fast.",
+    "BaseCost": 600,
+    "KarmaType": "Doom",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vomit Rain",
+    "modactive": false,
+    "Version": 1
+  },
+  "VRLite_VomitRain": {
+    "DefName": "VRLite_VomitRain",
+    "Label": "vomit rain",
+    "Description": "The sky is throwing up. A warm, chunky, bile-green rain is falling and pooling on every open surface. It slightly slows movement, reduces ranged accuracy and puts out fires, exactly like normal rain, except that nobody wants to be outside in it.\n\n<i><color=#66E0E4FF>Vomit Rain (Lite)</color></i>",
+    "BaseCost": 600,
+    "KarmaType": "Doom",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vomit Rain (Lite)",
+    "modactive": true,
+    "Version": 1
   }
 }
