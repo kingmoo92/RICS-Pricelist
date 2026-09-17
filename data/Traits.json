@@ -3181,7 +3181,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "MIM - WH40k Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "EMWH_IronStomach_0": {
@@ -3200,7 +3200,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "MIM - WH40k Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "EMWH_QuickDraw_0": {
@@ -3221,7 +3221,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "MIM - WH40k Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "EMWH_RapidReload_0": {
@@ -3242,7 +3242,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "MIM - WH40k Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "EMWH_Maccabian_0": {
@@ -3264,7 +3264,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "MIM - WH40k Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "EMAE_PathofScholar_0": {
@@ -4236,7 +4236,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Quests Expanded - Ancients",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VRE_Flirty_0": {
@@ -4314,7 +4314,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Alpha Genes",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "AG_Beauty_-2": {
@@ -4335,7 +4335,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Alpha Genes",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   }
 }

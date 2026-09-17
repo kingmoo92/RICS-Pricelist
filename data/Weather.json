@@ -308,7 +308,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Christmas Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VGE_DustCloud": {
@@ -320,7 +320,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Gravship Expanded - Chapter 1",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VGE_ToxicDustCloud": {
@@ -332,7 +332,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Gravship Expanded - Chapter 1",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VPEH_Bloodstorm": {
@@ -356,7 +356,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Quests Expanded - Ancients",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VQE_AncientSilo": {
@@ -368,7 +368,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Quests Expanded - Deadlife",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VREA_PsychicStorm": {
@@ -488,7 +488,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vomit Rain",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VomitRain_Weather": {
@@ -500,7 +500,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vomit Rain",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VomitRain_Weather_Chunky": {
@@ -512,7 +512,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vomit Rain",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VomitRain_Weather_Drizzle": {
@@ -524,7 +524,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vomit Rain",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VomitRain_Weather_Hail": {
@@ -536,7 +536,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vomit Rain",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VRLite_VomitRain": {
@@ -544,11 +544,11 @@
     "Label": "vomit rain",
     "Description": "The sky is throwing up. A warm, chunky, bile-green rain is falling and pooling on every open surface. It slightly slows movement, reduces ranged accuracy and puts out fires, exactly like normal rain, except that nobody wants to be outside in it.\n\n<i><color=#66E0E4FF>Vomit Rain (Lite)</color></i>",
     "BaseCost": 600,
-    "KarmaType": "Doom",
+    "KarmaType": "Bad",
     "EventCap": 3,
-    "Enabled": false,
+    "Enabled": true,
     "ModSource": "Vomit Rain (Lite)",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   }
 }
